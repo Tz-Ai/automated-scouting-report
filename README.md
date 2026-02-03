@@ -12,7 +12,6 @@ An automated esports analytics dashboard that transforms historical match data i
 ## Project Structure
 - `app.py`: Streamlit dashboard
 - `scripts/`: Data processing and helper logic
-- `data/`: Historical match data
 
 ## Tech Stack
 - Python
